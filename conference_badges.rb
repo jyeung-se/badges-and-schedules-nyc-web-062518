@@ -13,5 +13,8 @@ end
 
 def assign_rooms(speakers)
   counter = 1
+  speaker_to_room = []
+  rooms = [1, 2, 3, 4, 5, 6, 7]
   
 end
+
